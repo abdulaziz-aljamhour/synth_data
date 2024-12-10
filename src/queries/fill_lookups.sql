@@ -6,7 +6,7 @@ INSERT INTO REGIONS (REGION_ID, REGION_NAME_AR, REGION_NAME_EN) VALUES
 (5, 'عسير', 'Asir'),
 (6, 'تبوك', 'Tabuk'),
 (7, 'حائل', 'Hail'),
-(8, 'الحدود الشمالية', 'Northern B`orders'),
+(8, 'الحدود الشمالية', 'Northern Borders'),
 (9, 'جازان', 'Jazan'),
 (10, 'نجران', 'Najran'),
 (11, 'الباحة', 'Al-Baha'),

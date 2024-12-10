@@ -31,5 +31,5 @@ INSERT INTO PAYMENT_METHOD (PAYMENT_METHOD_ID, PAYMENT_METHOD_AR, PAYMENT_METHOD
 (4, 'نقداً عند التسليم', 'Cash on Delivery');
 
 INSERT INTO PRODUCT_STATUS_LOOKUP (PRODUCT_STATUS_ID, PRODUCT_STATUS_AR, PRODUCT_STATUS_EN) VALUES
-(0, 'غير نشط', 'ّInactive'),
+(0, 'غير نشط', 'Inactive'),
 (1, ' نشط', 'Active');

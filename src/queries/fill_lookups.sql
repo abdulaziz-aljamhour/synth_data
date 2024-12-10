@@ -7,7 +7,7 @@ INSERT INTO REGIONS (REGION_ID, REGION_NAME_AR, REGION_NAME_EN) VALUES
 (6, 'تبوك', 'Tabuk'),
 (7, 'حائل', 'Hail'),
 (8, 'الحدود الشمالية', 'Northern B`orders'),
-(9, 'جازان', 'Jazan'),`
+(9, 'جازان', 'Jazan'),
 (10, 'نجران', 'Najran'),
 (11, 'الباحة', 'Al-Baha'),
 (12, 'الجوف', 'Al-Jawf'),
@@ -29,3 +29,7 @@ INSERT INTO PAYMENT_METHOD (PAYMENT_METHOD_ID, PAYMENT_METHOD_AR, PAYMENT_METHOD
 (2, 'بطاقة ائتمان', 'Credit Card'),
 (3, 'أبل باي', 'Apple Pay'),
 (4, 'نقداً عند التسليم', 'Cash on Delivery');
+
+INSERT INTO PRODUCT_STATUS_LOOKUP (PRODUCT_STATUS_ID, PRODUCT_STATUS_AR, PRODUCT_STATUS_EN) VALUES
+(0, 'غير نشط', 'ّInactive'),
+(1, ' نشط', 'Active');
